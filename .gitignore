@@ -1,0 +1,28 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Bin/
+[Bb]uild[Bb]ackup/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+.tmbundle/
+.tmproj
+.npmrc
+*.pid
+*.swp
+*.*~
+

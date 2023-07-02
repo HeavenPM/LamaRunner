@@ -1,0 +1,16 @@
++0 - Default
++1 - Pilot
++2 - Knight
++3 - Farmer
++4 - Cool
++5 - Pegasus
++6 - Astronaut
+  +7 - Deep Diver
++7 - Santa
++8 - Alchemist
++9 - King
++10 - Ninja
++11 - Viking
++12 - Caesar
++13 - Unicorn
++14 - Don
